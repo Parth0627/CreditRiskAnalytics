@@ -1,0 +1,113 @@
+Feature,Missing Count,Missing Percentage,Category,Treatment
+desc,1221780,90.8177297425872,High,Drop
+mths_since_last_record,1116755,83.01097888219073,High,Investigate
+mths_since_recent_bc_dlq,1026290,76.28650645576113,High,Investigate
+mths_since_last_major_derog,991560,73.70494532858598,High,Investigate
+mths_since_recent_revol_delinq,895348,66.55328511644156,High,Investigate
+il_util,880294,65.43428652132222,High,Investigate
+mths_since_rcnt_il,821928,61.09580691439148,High,Investigate
+all_util,807765,60.04303840750459,High,Investigate
+inq_last_12m,807713,60.039173127383286,High,Investigate
+total_cu_tl,807713,60.039173127383286,High,Investigate
+open_acc_6m,807713,60.039173127383286,High,Investigate
+open_il_24m,807712,60.03909879507325,High,Investigate
+inq_fi,807712,60.03909879507325,High,Investigate
+open_rv_12m,807712,60.03909879507325,High,Investigate
+total_bal_il,807712,60.03909879507325,High,Investigate
+open_rv_24m,807712,60.03909879507325,High,Investigate
+open_act_il,807712,60.03909879507325,High,Investigate
+max_bal_bc,807712,60.03909879507325,High,Investigate
+open_il_12m,807712,60.03909879507325,High,Investigate
+mths_since_last_delinq,678743,50.452535103433405,High,Investigate
+mths_since_recent_inq,174071,12.939099538396354,Low,Median Applied
+num_tl_120dpd_2m,117401,8.726687529268347,Low,Median Applied
+mo_sin_old_il_acct,105575,7.847633630910347,Low,Median Applied
+emp_title,85785,6.376597215511666,Low,Unknown Applied
+emp_length,78511,5.8359039923883715,Low,Mode Applied
+pct_tl_nvr_dlq,67681,5.03088507481547,Low,Keep
+avg_cur_bal,67549,5.021073209892144,Low,Keep
+mo_sin_rcnt_rev_tl_op,67528,5.019512231381615,Low,Keep
+mo_sin_old_rev_tl_op,67528,5.019512231381615,Low,Keep
+num_rev_accts,67528,5.019512231381615,Low,Keep
+num_accts_ever_120_pd,67527,5.0194378990715895,Low,Keep
+num_actv_bc_tl,67527,5.0194378990715895,Low,Keep
+num_rev_tl_bal_gt_0,67527,5.0194378990715895,Low,Keep
+num_op_rev_tl,67527,5.0194378990715895,Low,Keep
+tot_coll_amt,67527,5.0194378990715895,Low,Keep
+tot_cur_bal,67527,5.0194378990715895,Low,Keep
+total_rev_hi_lim,67527,5.0194378990715895,Low,Keep
+total_il_high_credit_limit,67527,5.0194378990715895,Low,Keep
+tot_hi_cred_lim,67527,5.0194378990715895,Low,Keep
+num_il_tl,67527,5.0194378990715895,Low,Keep
+mo_sin_rcnt_tl,67527,5.0194378990715895,Low,Keep
+num_actv_rev_tl,67527,5.0194378990715895,Low,Keep
+num_tl_90g_dpd_24m,67527,5.0194378990715895,Low,Keep
+num_tl_30dpd,67527,5.0194378990715895,Low,Keep
+num_bc_tl,67527,5.0194378990715895,Low,Keep
+num_tl_op_past_12m,67527,5.0194378990715895,Low,Keep
+bc_util,61912,4.602061978280099,Very Low,Keep
+percent_bc_gt_75,61555,4.575525343601103,Very Low,Keep
+bc_open_to_buy,61143,4.544900431870722,Very Low,Keep
+mths_since_recent_bc,60221,4.476366042027488,Very Low,Keep
+num_sats,55841,4.1507905241171175,Very Low,Keep
+num_bc_sats,55841,4.1507905241171175,Very Low,Keep
+total_bal_ex_mort,47281,3.5145059503014178,Very Low,Keep
+total_bc_limit,47281,3.5145059503014178,Very Low,Keep
+mort_acc,47281,3.5145059503014178,Very Low,Keep
+acc_open_past_24mths,47281,3.5145059503014178,Very Low,Keep
+title,16660,1.2383762850198095,Very Low,Keep
+last_pymnt_d,2313,0.1719306330882845,Very Low,Keep
+revol_util,857,0.06370278969159525,Very Low,Keep
+pub_rec_bankruptcies,697,0.05180962008756346,Very Low,Keep
+dti,374,0.027800283949424295,Very Low,Keep
+collections_12_mths_ex_med,56,0.004162609361411124,Very Low,Keep
+chargeoff_within_12_mths,56,0.004162609361411124,Very Low,Keep
+last_credit_pull_d,55,0.004088277051385925,Very Low,Keep
+tax_liens,39,0.0028989600909827473,Very Low,Keep
+inq_last_6mths,1,7.433231002519866e-05,Very Low,Keep
+zip_code,1,7.433231002519866e-05,Very Low,Keep
+collection_recovery_fee,0,0.0,No Missing,Keep
+last_fico_range_high,0,0.0,No Missing,Keep
+last_pymnt_amnt,0,0.0,No Missing,Keep
+recoveries,0,0.0,No Missing,Keep
+term,0,0.0,No Missing,Keep
+sub_grade,0,0.0,No Missing,Keep
+grade,0,0.0,No Missing,Keep
+home_ownership,0,0.0,No Missing,Keep
+annual_inc,0,0.0,No Missing,Keep
+verification_status,0,0.0,No Missing,Keep
+issue_d,0,0.0,No Missing,Keep
+loan_status,0,0.0,No Missing,Keep
+pymnt_plan,0,0.0,No Missing,Keep
+funded_amnt,0,0.0,No Missing,Keep
+loan_amnt,0,0.0,No Missing,Keep
+installment,0,0.0,No Missing,Keep
+int_rate,0,0.0,No Missing,Keep
+total_rec_late_fee,0,0.0,No Missing,Keep
+total_rec_int,0,0.0,No Missing,Keep
+total_pymnt_inv,0,0.0,No Missing,Keep
+total_rec_prncp,0,0.0,No Missing,Keep
+out_prncp,0,0.0,No Missing,Keep
+initial_list_status,0,0.0,No Missing,Keep
+total_pymnt,0,0.0,No Missing,Keep
+out_prncp_inv,0,0.0,No Missing,Keep
+total_acc,0,0.0,No Missing,Keep
+open_acc,0,0.0,No Missing,Keep
+pub_rec,0,0.0,No Missing,Keep
+revol_bal,0,0.0,No Missing,Keep
+purpose,0,0.0,No Missing,Keep
+addr_state,0,0.0,No Missing,Keep
+delinq_2yrs,0,0.0,No Missing,Keep
+fico_range_low,0,0.0,No Missing,Keep
+fico_range_high,0,0.0,No Missing,Keep
+earliest_cr_line,0,0.0,No Missing,Keep
+funded_amnt_inv,0,0.0,No Missing,Keep
+application_type,0,0.0,No Missing,Keep
+delinq_amnt,0,0.0,No Missing,Keep
+acc_now_delinq,0,0.0,No Missing,Keep
+last_fico_range_low,0,0.0,No Missing,Keep
+policy_code,0,0.0,No Missing,Keep
+hardship_flag,0,0.0,No Missing,Keep
+disbursement_method,0,0.0,No Missing,Keep
+debt_settlement_flag,0,0.0,No Missing,Keep
+target,0,0.0,No Missing,Keep

@@ -35,6 +35,7 @@ __pycache__/
 # ==========================================
 
 data/raw/*
+data/interim/*
 data/processed/*
 
 # Keep the folder structure
