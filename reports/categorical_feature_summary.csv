@@ -1,0 +1,27 @@
+Feature,Unique Values
+emp_title,378354
+desc,122004
+title,61681
+zip_code,943
+earliest_cr_line,739
+last_credit_pull_d,140
+issue_d,139
+last_pymnt_d,135
+addr_state,51
+sub_grade,35
+purpose,14
+emp_length,11
+grade,7
+home_ownership,6
+income_band,4
+loan_band,4
+interest_band,4
+verification_status,3
+application_type,2
+loan_status,2
+term,2
+initial_list_status,2
+debt_settlement_flag,2
+disbursement_method,2
+pymnt_plan,1
+hardship_flag,1
