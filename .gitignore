@@ -4,6 +4,7 @@
 
 .venv/
 venv/
+env/
 
 # ==========================================
 # Python
@@ -22,11 +23,9 @@ __pycache__/
 # ==========================================
 # Machine Learning Models
 # ==========================================
-
-*.pkl
-*.joblib
-*.h5
-*.onnx
+# Keep deployment model files in GitHub.
+# If you create temporary experiment models elsewhere,
+# add those paths explicitly instead of ignoring all .pkl files.
 
 # ==========================================
 # Data Files
@@ -60,3 +59,16 @@ data/processed/*
 
 .DS_Store
 Thumbs.db
+
+# ==========================================
+# Streamlit
+# ==========================================
+
+.streamlit/secrets.toml
+
+# ==========================================
+# Miscellaneous
+# ==========================================
+
+*.tmp
+*.bak
